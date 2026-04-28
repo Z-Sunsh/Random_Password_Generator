@@ -12,6 +12,7 @@
 - Python 3
 - tkinter, json, random, string
 
+
 ## Как запустить
 
 ```bash
